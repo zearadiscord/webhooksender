@@ -25,7 +25,7 @@ var input_webhook = addInput({
 });
 var input_username = addInput({
     ttl: "名前",
-    val: "きょーた"
+    val: "captain hook"
 });
 var input_avatar = addInput({
     ttl: "アバター画像",
