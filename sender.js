@@ -29,7 +29,7 @@ var input_username = addInput({
 });
 var input_avatar = addInput({
     ttl: "アバター画像",
-    val: "https://i.imgur.com/tzZ9Tgy.jpg"
+    val: ""
 });
 var input_text = addTextarea("発言内容");
 $.get("sample.txt", function(r){
